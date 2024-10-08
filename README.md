@@ -21,7 +21,20 @@ End to end Project - Machine Learning + NLP + MLOPS + Deployment
 - hidden layer has z-score = summation of inputs multiplied by the weights wixi +b
 - total = step 1 - zscore, step 2 - take activation function and that to z score.
 - so the value is now between 0 and 1.
+- Perceptron is linear classifier , it separtes the points.- BC
+- Finds best fit line to solve classification problem.
 - 
+
+#### why we need multi layer neural network ?
+
+![image](https://github.com/user-attachments/assets/55019683-ac56-4507-8b3e-426ed0e13d88)
+
+- perceptron wont be able to solve such complex problems.
+- which are not linearly separable.
+- 
+
+
+
 
 
 
