@@ -31,7 +31,34 @@ End to end Project - Machine Learning + NLP + MLOPS + Deployment
 
 - perceptron wont be able to solve such complex problems.
 - which are not linearly separable.
+
+#### Multi-layer NN Model -
+- Forward Propogation
+- backward propogation
+- Loss functions
+- Optimizers
+- Activation Functions
+- how initial weights are initiazed ?
+- loss function vs cost function
+- loss function is only calculated for one point/ neuron/ input value
+- cost function is calculated over multple points, its summation.
+- we updated the error only at once, by combining all error together.
+- loss functions for regrssion and classification are different.
+- goal is to reduce loss functions.
+
+
+#### weight updation formuala in backward propogation -
+- newW = oldW - (Learning rate * derivative of loss wrt weights)
+- the graph of loss vs weights tells us about local minimas / global minima.
+
+![image](https://github.com/user-attachments/assets/57278655-0483-43d6-948d-508dda5b61ad)
+
 - 
+
+
+
+
+
 
 
 
