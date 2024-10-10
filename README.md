@@ -53,7 +53,7 @@ End to end Project - Machine Learning + NLP + MLOPS + Deployment
 
 ![image](https://github.com/user-attachments/assets/57278655-0483-43d6-948d-508dda5b61ad)
 
-- 
+- Another common technique we use in Machine Learning and Deep Learning is to normalize our data. It often leads to a better performance because gradient descent converges faster after normalization.
 
 
 
